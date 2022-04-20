@@ -1,0 +1,16 @@
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.exe
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.deps.json
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.runtimeconfig.json
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.runtimeconfig.dev.json
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.dll
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\ref\Tabacaria.dll
+C:\Users\eliel\Documents\C# Projects\Tabacaria\bin\Debug\net5.0\Tabacaria.pdb
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.csproj.AssemblyReference.cache
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.AssemblyInfoInputs.cache
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.AssemblyInfo.cs
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.dll
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\ref\Tabacaria.dll
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.pdb
+C:\Users\eliel\Documents\C# Projects\Tabacaria\obj\Debug\net5.0\Tabacaria.genruntimeconfig.cache
